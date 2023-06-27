@@ -1,0 +1,10 @@
+target/
+target/*
+target
+/target
+target/**/
+target/classes/META-INF/maven/O2O/DSS/pom.properties
+target/classes/O2O/DSS/CreatedDADEV.class
+target/classes/O2O/DSS/CreatedDAstaging.class
+target/classes/O2O/DSS/CreatedNVDXS.class
+target/classes/O2O/DSS/Run.class
